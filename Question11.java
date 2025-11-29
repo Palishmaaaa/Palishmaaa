@@ -34,6 +34,5 @@ public class Question11
         
         double income_tax=tax*income;
         System.out.println("Your income tax is "+income_tax);
-        System.out.println("Your income tax is "+income_tax);
     }
 }
